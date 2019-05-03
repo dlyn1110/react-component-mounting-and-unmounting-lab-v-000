@@ -16,7 +16,7 @@ class Pancake extends React.Component {
 
   componentDidMount() {
   this.startInterval();
-}
+ }
 
   updateCounter = () => {
     this.setState({
